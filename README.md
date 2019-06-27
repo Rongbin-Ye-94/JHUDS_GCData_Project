@@ -1,7 +1,8 @@
 # JHUDS_GCData_Project
 This repo serves for the course of JHUDS_GCData_Project. 
 
-# Project Name: JHU_Data Science Concentration_Getting and Cleaning Data with UCI HAR Data. 
+# Project Name: 
+JHU_Data Science Concentration_Getting and Cleaning Data with UCI HAR Data. 
 
 # Aim of Project:
 #### 1. Gather the data from the target 
